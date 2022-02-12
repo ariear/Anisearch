@@ -1,5 +1,6 @@
-Assalamualaikum Wr. Wb.
+<h2>Assalamualaikum Wr. Wb.</h2>
 
-  Pada Kesempatan kali ini gweh buat web open source
+  Pada Kesempatan kali ini gweh buat web open source pencarian anime
 
-URL DEMO = https://aniisearch.netlify.app
+  URL DEMO = https://aniisearch.netlify.app
+
