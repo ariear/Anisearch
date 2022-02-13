@@ -4,3 +4,5 @@
 
   URL DEMO = https://aniisearch.netlify.app
 
+  Untuk API nya dari <a href="" >Jikan Api</a>
+
