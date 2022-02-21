@@ -1,6 +1,6 @@
 <template>
   <p class="text-5xl md:text-7xl font-title text-[#82CCDD] text-center pt-20">AniSearch</p>
-  <form @submit.prevent="carianime">
+  <form method="get" @submit="carianime">
       <div class="flex justify-center py-11">
       <input type="text" v-model="cari" placeholder="Search Anime Here" class="py-2 px-3 w-[270px] md:w-[400px] rounded-md focus:outline-[#307b8b] font-medium">
       <button class="py-2 px-3 bg-[#82CCDD] rounded-md ml-4">
