@@ -138,7 +138,6 @@ export default {
             } catch (error) {
                 this.loading = true
             }
-            this.$router.push(`?q=${this.cari}`)
         },
         async detailanime(id){
             this.loadingdetail = true
