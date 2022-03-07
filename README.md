@@ -1,6 +1,6 @@
 <h2>Cari Info Animemu !!</h2>
     <h3>Assalamualaikum Wr. Wb.</h3>
-  Pada Kesempatan kali ini saya buat web open source pencarian anime
+  web pencarian detail anime
 
   <a href="https://aniisearch.netlify.app">Demo</a>
 
